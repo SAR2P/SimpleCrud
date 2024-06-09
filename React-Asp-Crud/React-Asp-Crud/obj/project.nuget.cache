@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n5XP0BRZweCEWURJLzPyY1KHJCLxO7DqUDSOMfwpK5Keoahn+WgriZAwFK9W9KEt7azKC6kFGMCXc6CdtMfN1w==",
+  "dgSpecHash": "KUPJcBzirFy+3rREHxkexsxAsjGrAi5QilvdqK+OW/XOXD3Fy3N7QaZIy1Tl8ilCqP1nvzz/riDFNAQ3R9uqrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DAIC\\Desktop\\PROJs\\Asp-React-Projects\\simple-crud\\React-Asp-Crud\\React-Asp-Crud\\React-Asp-Crud.csproj",
+  "projectFilePath": "C:\\Users\\DAIC\\Desktop\\SimpleCrud\\React-Asp-Crud\\React-Asp-Crud\\React-Asp-Crud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DAIC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DAIC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

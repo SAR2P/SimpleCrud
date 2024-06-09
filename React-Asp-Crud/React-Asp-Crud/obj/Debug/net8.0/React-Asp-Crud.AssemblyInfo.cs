@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("React-Asp-Crud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da2feaf4801736491cd465faf13f0e03b833e3b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("React-Asp-Crud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("React-Asp-Crud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
